@@ -12,3 +12,6 @@ template script to get data from running server(free using) if you renew the ngr
 3. Replace "API_KEY" with Your Api key from ngrok
 
 4. Integrate the script into your project
+
+
+For more information/ideas pls visit [the Ngrok Docs](https://ngrok.com/docs/api/)
